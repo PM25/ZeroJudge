@@ -1,4 +1,5 @@
 import sys
+import math
 
 for line in sys.stdin:
-    pass
+    a, b, c = map(int, line.split(" "))
