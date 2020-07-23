@@ -1,1 +1,0 @@
-type data.txt | C:\Users\user\AppData\Local\Programs\Python\Python37\python.exe a006.py > output.log 2> error.log
