@@ -1,7 +1,10 @@
 #%%
 import sys
 
-# for line in sys.stdin:
-for line in input():
-    M, D = map(int, line.split(" "))
+t = int(input())
+
+for i in range(t):
+    nums = [int(x) for x in input().split(" ")]
     pass
+
+# %%
